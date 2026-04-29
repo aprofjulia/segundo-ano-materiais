@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+h1{
+    color:#5DC1B9;
+    text-align:center;
+    font-family: Impact;
+}
+p{
+    background-image: url(https://pbs.twimg.com/media/D8KnpNoXUAAhN9_.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:white;
+}
